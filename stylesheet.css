@@ -1,0 +1,24 @@
+﻿#nav-title {
+}
+
+
+@media (min-width: 1000px) {
+    .nav-button {
+        display: none;
+    }
+
+    .nav-item {
+    }
+}
+
+@media(max-width: 999px) {
+    .nav-item {
+        display: none;
+    }
+
+    .nav-button {
+    }
+
+    .nav-item {
+    }
+}
